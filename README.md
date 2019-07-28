@@ -1,5 +1,6 @@
 # Learning Github
 
+# Basic
 To make a repository
 mkdir <name>
 
@@ -19,7 +20,7 @@ To check status of git repository
 git status
 
 
-Branches
+# Branches
 To show branches and their structure
 git branch
 
@@ -31,6 +32,24 @@ git checkout <branch_name>
 
 To delete a branch
 git branch -d <branch_name>
+
+
+
+# Remote Repository
+To add a new remote
+git add remote origin <remote_repository_url>
+
+To push a branch to GitHub
+git push origin <branch_name>
+
+To pull down a repository to local machine
+git pull <address>
+
+To clone a repository
+git clone <address>
+
+
+
 
 
 
