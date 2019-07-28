@@ -7,9 +7,9 @@ To initialize git in repository:
 git init
 
 To add files to the staging environment
-git add  <filename>
+     git add  <filename>
 
-     To add all files in the folder
+To add all files in the folder
      git add .
 
 To commit
