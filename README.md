@@ -2,10 +2,10 @@
 
 # Basic
 To make a repository
-          mkdir <name>
+mkdir <name>
 
 To initialize git in repository:
-          git init
+git init
 
 To add files to the staging environment
      git add  <filename>
@@ -50,6 +50,6 @@ git clone <address>
 
 
 
-More changes will be added here
+More changes will be added here soon
 
 
