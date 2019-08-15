@@ -31,25 +31,21 @@ To go to a branch
 ```git checkout <branch_name>```
 
 To delete a branch
-git branch -d <branch_name>
+```git branch -d <branch_name>```
 
 
 
 # Remote Repository
 To add a new remote
-git add remote origin <remote_repository_url>
+```git add remote origin <remote_repository_url>```
 
 To push a branch to GitHub
-git push origin <branch_name>
+```git push origin <branch_name>```
 
 To pull down a repository to local machine
-git pull <address>
+```git pull <address>```
 
 To clone a repository
-git clone <address>
-
-
-
-More changes will be added here soon
+```git clone <address>```
 
 
