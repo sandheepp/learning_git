@@ -1,11 +1,14 @@
 # Learning Github
 
 # Basic
-To make a repository
+To make a directory
 ```mkdir <name>```
 
 To initialize git in repository:
 ```git init```
+
+To check status of git repository
+```git status```
 
 To add files to the staging environment
      ```git add  <filename>```
@@ -15,9 +18,6 @@ To add all files in the folder
 
 To commit
 ```git commit -m <message_description>```
-
-To check status of git repository
-```git status```
 
 
 # Branches
@@ -34,8 +34,8 @@ To delete a branch
 ```git branch -d <branch_name>```
 
 
-
 # Remote Repository
+
 To add a new remote
 ```git add remote origin <remote_repository_url>```
 
