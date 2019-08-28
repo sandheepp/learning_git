@@ -1,6 +1,6 @@
 # Learning Github
 
-# Basic
+## Basic
 To make a directory
 ```mkdir <name>```
 
@@ -20,7 +20,7 @@ To commit
 ```git commit -m <message_description>```
 
 
-# Branches
+## Branches
 To show branches and their structure
 ```git branch```
 
@@ -33,9 +33,7 @@ To go to a branch
 To delete a branch
 ```git branch -d <branch_name>```
 
-
-# Remote Repository
-
+## Remote Repository
 To add a new remote
 ```git add remote origin <remote_repository_url>```
 
