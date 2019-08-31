@@ -1,16 +1,20 @@
 # Learning Github
 
 ## Basic
-To make a directory
+To make a directory:
+
 ```mkdir <name>```
 
 To initialize git in repository:
+
 ```git init```
 
-To check status of git repository
+To check status of git repository:
+
 ```git status```
 
-To add files to the staging environment
+To add files to the staging environment:
+
      ```git add  <filename>```
 
 To add all files in the folder
