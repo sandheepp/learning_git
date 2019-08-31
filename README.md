@@ -1,4 +1,7 @@
 # Learning Github
+## Install Git
+
+sudo apt install git
 
 ## Basic
 To make a directory:
